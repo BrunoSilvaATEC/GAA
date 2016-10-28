@@ -1,4 +1,4 @@
-	import aula2810.Calculadora;
+	import aula2810.BalancoGAA;
 public class Principal {
 
 	public Principal() {
@@ -10,6 +10,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 			//new exerciciobalanco ();
 			//new exerciciobalanco ();
-			new Calculadora ();
+//			new Calculadora ();
+			new BalancoGAA();
 }
 }
