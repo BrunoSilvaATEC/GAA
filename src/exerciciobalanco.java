@@ -7,11 +7,11 @@ public class exerciciobalanco {
 		// TODO Auto-generated constructor stub
 System.out.println("Ola Turma!");
 	
-		//CALCULAR RECEITAS
+		//CHAMAR A VARIAVEL QUE CALCULA RECEITA
 		calcularReceitas ();
 		
 		
-		// CALCULA DESPESAS
+		// CHAMAR A VARIAVEL CALCULA DESPESAS
 		calcularDespesas  ();
 		
 		
